@@ -1,1 +1,1 @@
-echo "...\n" : prints “...”, followed by a new line to the standard output.
+echo "..." : prints “...”, followed by a new line to the standard output.
